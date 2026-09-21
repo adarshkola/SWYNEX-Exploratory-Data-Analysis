@@ -126,17 +126,19 @@ A histogram was created to understand the distribution of AQI values.
 
 A line chart was created to observe how AQI values changed over time.
 
-Key Insights
+## Key Insights
 
 Based on the analysis:
 
-Hyderabad has the highest average AQI in this dataset, with an average AQI of approximately 375.33.
-Jaipur has the lowest average AQI in this dataset, with an average AQI of approximately 206.44.
-The Severe AQI category contains the highest number of records, with 45 out of 100 records.
-PM2.5 has the strongest positive correlation with AQI among the pollutant columns in this dataset.
-The correlation between PM2.5 and AQI is approximately 0.89, showing a strong positive relationship in this dataset.
-AQI values vary across different cities and dates, showing changes in air quality over time.
-No AQI values were identified as anomalies using the mean ± 2 standard deviations method.
+1. **Hyderabad** has the highest average AQI in this dataset, while **Jaipur** has the lowest average AQI.
+
+2. The **Severe** AQI category contains the highest number of records, with **45 out of 100 records**.
+
+3. **PM2.5** has the strongest positive correlation with AQI among the pollutant columns in this dataset.
+
+4. The correlation between **PM2.5 and AQI is approximately 0.89**, showing a strong positive relationship in this dataset.
+
+5. No AQI values were identified as anomalies using the **mean ± 2 standard deviations** method.
 Final Results
 
 The EDA produced:
