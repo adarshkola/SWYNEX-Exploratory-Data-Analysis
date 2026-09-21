@@ -139,17 +139,8 @@ Based on the analysis:
 4. The correlation between **PM2.5 and AQI is approximately 0.89**, showing a strong positive relationship in this dataset.
 
 5. No AQI values were identified as anomalies using the **mean ± 2 standard deviations** method.
-Final Results
 
-The EDA produced:
 
-City-wise average AQI analysis
-AQI category distribution
-Pollutant correlation analysis
-AQI anomaly check
-AQI distribution analysis
-AQI trend over time
-5 data visualizations
 Conclusion
 
 The Exploratory Data Analysis helped in understanding the structure and characteristics of the cleaned AQI dataset.
