@@ -56,7 +56,6 @@ SWYNEX-Exploratory-Data-Analysis
 ├── chart5_aqi_trend.png
 ├── exploratory_data_analysis.py
 └── README.md
-
 Exploratory Data Analysis Steps
 1. Load the Dataset
 
