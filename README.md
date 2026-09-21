@@ -44,8 +44,7 @@ The main columns include:
 - VS Code
 
 ## Files
-
-```text
+```
 SWYNEX-Exploratory-Data-Analysis
 │
 ├── india_aqi_cleaned.csv
@@ -56,8 +55,8 @@ SWYNEX-Exploratory-Data-Analysis
 ├── chart5_aqi_trend.png
 ├── exploratory_data_analysis.py
 └── README.md
-
-## Exploratory Data Analysis Steps
+```
+Exploratory Data Analysis Steps
 1. Load the Dataset
 
 Loaded the cleaned AQI dataset using Pandas.
